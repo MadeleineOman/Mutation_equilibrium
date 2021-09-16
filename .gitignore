@@ -38,4 +38,19 @@ Intronic_simRedo/plots/
 NonCoding_Coding_Sims/data/
 NonCoding_Coding_Sims/plots/
 
+verifying_equilibrium_point/data/
+verifying_equilibrium_point/plots/
+
+WholeGenomeMutabilityExonIntron/gettingCdsIntergenic/cds.fasta
+WholeGenomeMutabilityExonIntron/gettingCdsIntergenic/cds.nonOverlapping.fasta
+WholeGenomeMutabilityExonIntron/gettingCdsIntergenic/intergenic.fasta
+WholeGenomeMutabilityExonIntron/madeleine/CDS_GRCh38_fromOGfileUnsorted.txt
+WholeGenomeMutabilityExonIntron/madeleine/CDS_maxBounds_dict.txt
+WholeGenomeMutabilityExonIntron/madeleine/Exons_GRCh38.txt
+WholeGenomeMutabilityExonIntron/madeleine/Exons_GRCh38_fromOGfileUnsorted.txt
+WholeGenomeMutabilityExonIntron/madeleine/Homo_sapiens.GRCh38.100.chr.gff3.gz
+WholeGenomeMutabilityExonIntron/madeleine/Homo_sapiens.GRCh38.100.gff3.gz
+WholeGenomeMutabilityExonIntron/madeleine/Homo_sapiens_sorted.GRCh38.100.gff3
+WholeGenomeMutabilityExonIntron/madeleine/Homo_sapiens_sorted.GRCh38.100.gff3.gz
+WholeGenomeMutabilityExonIntron/madeleine/README
 
