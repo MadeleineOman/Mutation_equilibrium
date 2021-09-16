@@ -1,0 +1,19 @@
+codon_usage_bias/data/*
+
+codon_usage_bias/generating_codon_usage_bias_data/Homo_sapiens.GRCh38.cds.all.fa
+codon_usage_bias/generating_codon_usage_bias_data/Homo_sapiens.GRCh38.cds.intact.fa
+
+comparing_equilibrium_point/.ipynb_checkpoints/
+comparing_equilibrium_point/data/*
+comparing_equilibrium_point/intergenic.fasta
+
+codon_usage_bias/generating_codon_usage_bias_data/.ipynb_checkpoints/
+codon_usage_bias/plots/.ipynb_checkpoints/
+
+codon_usage_bias/.ipynb_checkpoints/
+codon_usage_bias/plots/
+comparing_equilibrium_point/plots/
+
+.ipynb_checkpoints/
+.~Experimental Model.ipynb
+
