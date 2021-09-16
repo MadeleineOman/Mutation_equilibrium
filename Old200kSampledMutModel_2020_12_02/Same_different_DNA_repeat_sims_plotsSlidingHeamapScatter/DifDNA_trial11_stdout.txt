@@ -1,0 +1,11 @@
+total number of CDS where len >= 4k is 3473
+number_of_exons is 7
+intron_gap is 7142
+note that every intron is the same
+length of one of the exons is 6441
+length of one of the exons is 12507
+length of one of the exons is 4827
+length of one of the exons is 7239
+length of one of the exons is 5640
+length of one of the exons is 5997
+length of one of the exons is 10851
