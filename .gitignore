@@ -1,19 +1,34 @@
-codon_usage_bias/data/*
-
-codon_usage_bias/generating_codon_usage_bias_data/Homo_sapiens.GRCh38.cds.all.fa
-codon_usage_bias/generating_codon_usage_bias_data/Homo_sapiens.GRCh38.cds.intact.fa
-
 comparing_equilibrium_point/.ipynb_checkpoints/
 comparing_equilibrium_point/data/*
 comparing_equilibrium_point/intergenic.fasta
+comparing_equilibrium_point/plots/
 
+codon_usage_bias/generating_codon_usage_bias_data/Homo_sapiens.GRCh38.cds.intact.fa
+codon_usage_bias/data/*
 codon_usage_bias/generating_codon_usage_bias_data/.ipynb_checkpoints/
 codon_usage_bias/plots/.ipynb_checkpoints/
-
 codon_usage_bias/.ipynb_checkpoints/
 codon_usage_bias/plots/
-comparing_equilibrium_point/plots/
+codon_usage_bias/generating_codon_usage_bias_data/Homo_sapiens.GRCh38.cds.all.fa
 
 .ipynb_checkpoints/
 .~Experimental Model.ipynb
+
+Human_exon_data/GRCh38_latest_protein.faa.gz
+Human_exon_data/Homo_sapiens.GRCh38.100.chromosome.1.gff3.gz
+Human_exon_data/Homo_sapiens.GRCh38.cds.all.fa
+
+Human_mutability_model/Model_2021_05_01_genomeWide.csv
+Human_mutability_model/data/
+Human_mutability_model/del/
+Human_mutability_model/other_species_mutability_model/Arabidopsis_thaliana/
+Human_mutability_model/other_species_mutability_model/chlamy/
+Human_mutability_model/other_species_mutability_model/mus_musculus/41467_2019_12023_MOESM5_ESM.csv
+Human_mutability_model/other_species_mutability_model/mus_musculus/README
+Human_mutability_model/other_species_mutability_model/mus_musculus/mus_musculus_genome/
+Human_mutability_model/other_species_mutability_model/yeast/genome/
+Human_mutability_model/other_species_mutability_model/yeast/yeast_mut_data.zip
+Human_mutability_model/plots/
+
+HumanTripletCounts/GenometripletCouts_vs_OldsampledMutability.png
 
