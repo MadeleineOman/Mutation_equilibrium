@@ -1,1 +1,0 @@
-all intron, all randomly generated seq
