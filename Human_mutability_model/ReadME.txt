@@ -3,10 +3,10 @@
 0. donwloading and 
 
 1. first draft of the mutability (triplet) model 
---> using a random sample of triplets to divide the # mutations and generate mutability for each triplet. 
+- using a random sample of triplets to divide the # mutations and generate mutability for each triplet. 
 
 2. extending the model to genome wide 
---> using all the triplets in the genome to divide # mutations 
+- using all the triplets in the genome to divide # mutations 
 
 3. generating mutability for 5-mers 
 
@@ -16,4 +16,14 @@
 # **description of the folders**
 
 other_species_mutability_model/ 
---> creating the models for the model species used for the comparison in the firts resutls text (mainly comparing the range of mutability seen across different species)
+- creating the models for the model species used for the comparison in the firts resutls text (mainly comparing the range of mutability seen across different species)
+
+# **description of files**
+
+Mudict* --> dictionary object file of the mutations for all the triplets. 
+- different files are from different kinds o mutations (ie MutDict_coding_2021_09_15.txt is the mutation dictionary for all triplets in coding regions)
+
+Model* --> dictionary object file of the mutability model 
+- different files correpond to different models 
+
+tripCount* --> dictionary object file of the triplet counts in the genome per triplet 
