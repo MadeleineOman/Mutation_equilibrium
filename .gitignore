@@ -28,7 +28,6 @@ Human_mutability_model/other_species_mutability_model/mus_musculus/README
 Human_mutability_model/other_species_mutability_model/mus_musculus/mus_musculus_genome/
 Human_mutability_model/other_species_mutability_model/yeast/genome/
 Human_mutability_model/other_species_mutability_model/yeast/yeast_mut_data.zip
-Human_mutability_model/plots/
 
 HumanTripletCounts/GenometripletCouts_vs_OldsampledMutability.png
 
@@ -39,7 +38,7 @@ NonCoding_Coding_Sims/data/
 NonCoding_Coding_Sims/plots/
 
 verifying_equilibrium_point/data/
-verifying_equilibrium_point/plots/
+verifying_equilibrium/plots/
 
 WholeGenomeMutabilityExonIntron/gettingCdsIntergenic/cds.fasta
 WholeGenomeMutabilityExonIntron/gettingCdsIntergenic/cds.nonOverlapping.fasta
