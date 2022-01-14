@@ -38,8 +38,9 @@ Intronic_simRedo/plots/
 NonCoding_Coding_Sims/data/
 NonCoding_Coding_Sims/plots/
 
+nonoverlapSimulation/data/
+
 verifying_equilibrium_point/data/
-verifying_equilibrium/plots/
 
 WholeGenomeMutabilityExonIntron/gettingCdsIntergenic/cds.fasta
 WholeGenomeMutabilityExonIntron/gettingCdsIntergenic/cds.nonOverlapping.fasta
