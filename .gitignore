@@ -1,7 +1,6 @@
 comparing_equilibrium_point/.ipynb_checkpoints/
 comparing_equilibrium_point/data/*
 comparing_equilibrium_point/intergenic.fasta
-comparing_equilibrium_point/plots/
 
 codon_usage_bias/generating_codon_usage_bias_data/Homo_sapiens.GRCh38.cds.intact.fa
 codon_usage_bias/data/*
@@ -9,6 +8,9 @@ codon_usage_bias/generating_codon_usage_bias_data/.ipynb_checkpoints/
 codon_usage_bias/plots/.ipynb_checkpoints/
 codon_usage_bias/.ipynb_checkpoints/
 codon_usage_bias/generating_codon_usage_bias_data/Homo_sapiens.GRCh38.cds.all.fa
+codon_usage_bias/generating_codon_usage_bias_data/codon_usage_df_2022_01_02.csv
+codon_usage_bias/bash_commands.ipynb
+
 
 .ipynb_checkpoints/
 .~Experimental Model.ipynb
