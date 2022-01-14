@@ -33,7 +33,7 @@ Human_mutability_model/other_species_mutability_model/yeast/yeast_mut_data.zip
 HumanTripletCounts/GenometripletCouts_vs_OldsampledMutability.png
 
 Intronic_simRedo/data/
-Intronic_simRedo/plots/
+Intronic_simRedo/bash_commands.ipynb
 
 NonCoding_Coding_Sims/data/
 NonCoding_Coding_Sims/plots/
