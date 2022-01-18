@@ -6,13 +6,13 @@
 
 ### **there are  afew notebooks that should be run first**
 1. download the exon data 
-- using the notebook in the Human_exon_data/ directory
+    - using the notebook in the Human_exon_data/ directory
 
 2. extract the count of each triplet in the genom 
-- HumanTripletCounts
+    - HumanTripletCounts
 
 3. create the triplet mutability model 
-- Human_mutability_model folder 
+    - Human_mutability_model folder 
 
 ## **description of the remaining folders** 
 - NonCoding_Coding_sims
