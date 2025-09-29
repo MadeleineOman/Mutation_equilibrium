@@ -1,2 +1,4 @@
-# Mutation_equilibrium
-- please see the "wholeDir_ReadME.md" file in the master branch
+# **description of the Mutation equilibrium project** 
+- Note that the code and repositories are listed under the "master" branch.
+- Please see the "whole_dir_ReadME.md" for instructions.
+
